@@ -1,0 +1,14 @@
+{
+  "documents": [
+    "Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed.",
+    "Natural Language Processing (NLP) is a branch of AI that helps computers understand, interpret and manipulate human language.",
+    "Deep learning is a subset of machine learning that uses neural networks with multiple layers to progressively extract higher-level features from raw input.",
+    "RAG (Retrieval-Augmented Generation) combines the benefits of retrieval-based and generative AI models to provide more accurate and contextual responses.",
+    "FastAPI is a modern, fast web framework for building APIs with Python 3.7+ based on standard Python type hints.",
+    "Docker is a platform that uses containerization to package applications and their dependencies together.",
+    "Security in AI systems involves protecting against adversarial attacks, prompt injection, and data poisoning.",
+    "Vector databases store high-dimensional vectors and enable efficient similarity searches for applications like recommendation systems and RAG.",
+    "Transformer models have revolutionized NLP by using self-attention mechanisms to process sequential data more effectively.",
+    "API security best practices include authentication, rate limiting, input validation, and logging."
+  ]
+}
